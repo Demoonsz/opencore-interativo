@@ -1,13 +1,5 @@
-OpenCore Interativo é um guia interativo e simplificado para auxiliar na criação e configuração de Hackintosh utilizando o OpenCore.
-
-A ferramenta permite analisar relatórios de hardware (Hardware Sniffer), identificar componentes do computador, consultar configurações, visualizar kexts recomendadas e acessar explicações e guias sobre as principais etapas do processo.
-
-O objetivo é tornar a configuração do OpenCore mais acessível, organizada e fácil de entender, reunindo informações essenciais em um só lugar.
+OpenCore Interativo é um guia interativo e simplificado para auxiliar na criação e configuração de Hackintosh utilizando o OpenCore. A ferramenta permite analisar relatórios de hardware (Hardware Sniffer), identificar componentes do computador, consultar configurações, visualizar kexts recomendadas e acessar explicações e guias sobre as principais etapas do processo. O objetivo é tornar a configuração do OpenCore mais acessível, organizada e fácil de entender, reunindo informações essenciais em um só lugar.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
-OpenCore Interativo is a simplified interactive guide designed to help users create and configure Hackintosh systems using OpenCore.
-
-The tool allows users to analyze hardware reports (Hardware Sniffer), identify computer components, explore configuration options, view recommended kexts, and access explanations and guides covering the main steps of the process.
-
-Its goal is to make OpenCore configuration more accessible, organized, and easier to understand by bringing essential information together in one place.
+OpenCore Interativo is a simplified interactive guide designed to help users create and configure Hackintosh systems using OpenCore. The tool allows users to analyze hardware reports (Hardware Sniffer), identify computer components, explore configuration options, view recommended kexts, and access explanations and guides covering the main steps of the process. Its goal is to make OpenCore configuration more accessible, organized, and easier to understand by bringing essential information together in one place.
