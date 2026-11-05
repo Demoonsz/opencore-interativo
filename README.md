@@ -1,4 +1,4 @@
-OpenCore Interativo** é um guia interativo e simplificado para auxiliar na criação e configuração de Hackintosh utilizando o OpenCore.
+OpenCore Interativo é um guia interativo e simplificado para auxiliar na criação e configuração de Hackintosh utilizando o OpenCore.
 
 A ferramenta permite analisar relatórios de hardware (Hardware Sniffer), identificar componentes do computador, consultar configurações, visualizar kexts recomendadas e acessar explicações e guias sobre as principais etapas do processo.
 
@@ -6,7 +6,7 @@ O objetivo é tornar a configuração do OpenCore mais acessível, organizada e 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
-OpenCore Interativo** is a simplified interactive guide designed to help users create and configure Hackintosh systems using OpenCore.
+OpenCore Interativo is a simplified interactive guide designed to help users create and configure Hackintosh systems using OpenCore.
 
 The tool allows users to analyze hardware reports (Hardware Sniffer), identify computer components, explore configuration options, view recommended kexts, and access explanations and guides covering the main steps of the process.
 
