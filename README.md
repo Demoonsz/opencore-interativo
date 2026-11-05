@@ -8,3 +8,4 @@ OpenCore Interativo is a simplified interactive guide designed to help users cre
 
 <img width="1429" height="1257" alt="Screenshot_1" src="https://github.com/user-attachments/assets/002fb856-935d-45a3-8bf1-37fdc69f9220" />
 <img width="2241" height="1300" alt="Screenshot_2" src="https://github.com/user-attachments/assets/9807a578-efbf-41ea-af9c-f29be04eb188" />
+<img width="1460" height="1292" alt="Screenshot_3" src="https://github.com/user-attachments/assets/9a2b5c4e-0b1c-4600-ad35-f7d941251a34" />
